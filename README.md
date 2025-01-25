@@ -22,8 +22,8 @@ MAE (Mean Absolute Error): Measures the average magnitude of errors.
 SHAP values are used for explainability to interpret feature importance.
 
 ## Results 
-Accuracy : 0.80
-R² Score: 0.96
-RMSE: 0.31
-Memory: 401 MB 
-Training time: 0.49 seconds
+1. Accuracy : 0.80
+2. R² Score: 0.96
+3. RMSE: 0.31
+4. Memory: 401 MB 
+5. Training time: 0.49 seconds
