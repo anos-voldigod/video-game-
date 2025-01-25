@@ -20,3 +20,6 @@ R² Score: Measure of how well the model explains variance.
 RMSE (Root Mean Squared Error): Indicates average prediction error.
 MAE (Mean Absolute Error): Measures the average magnitude of errors.
 SHAP values are used for explainability to interpret feature importance.
+
+## Results 
+Accuracy : 0.80
