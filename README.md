@@ -25,4 +25,5 @@ SHAP values are used for explainability to interpret feature importance.
 Accuracy : 0.80
 R² Score: 0.96
 RMSE: 0.31
-Memory: 401Mb
+Memory: 401 MB 
+Training time: 0.49 seconds
